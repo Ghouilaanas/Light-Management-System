@@ -12,7 +12,8 @@ This server created, provides everything necessary in terms of security, connect
 
 **Keywords** : IoT, LoRa, WiFi, HTTPS, STM32-Nucleo L476RG, STM32Cube IDE, C/C++.
 
-               ---        
+---        
+
 ## 🎯 Aims
 
 ## ⚙️ Tools and Technologies
