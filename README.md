@@ -32,3 +32,11 @@ hhhhhhh
 - **Arduino IDE** : A user-friendly integrated development environment for programming Arduino boards, supporting code writing, uploading, and serial monitoring.
 - **C (STM32CubeIDE), C++ (Arduino IDE)** : programming languages.
 - **Proteus ISIS** : A software tool for designing and simulating electronic circuits and embedded systems.
+---
+## Functionalities
+- hjj
+- ghh
+- kkkl
+---
+## Preview
+
