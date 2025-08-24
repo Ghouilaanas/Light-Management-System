@@ -21,9 +21,11 @@ hhhhhhh
 ## ⚙️ Tools and Technologies
 
 ### Hardware 
-- h
-- a
-- b
+- STM32 Nucleo-L476RG microcontroller board
+- NodeMCU ESP8266 microcontroller board
+- LoRa E32 (868T20D) Module with 868 MHz SMA Antenna
+- 12V Switched-Mode Power Supply
+- 4-Relay Module
   
 ### Software
 - h
