@@ -28,5 +28,5 @@ hhhhhhh
 - 4-Relay Module
   
 ### Software
-- h
-- h
+- STM32CubeIDE
+- Arduino IDE
