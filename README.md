@@ -16,4 +16,4 @@ This server created, provides everything necessary in terms of security, connect
 
 ## ⚙️ Tools and Technologies
 
-### Hardware
+### Hardware 
