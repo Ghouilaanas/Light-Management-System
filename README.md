@@ -30,4 +30,4 @@ hhhhhhh
 ### Software
 - **STM32CubeIDE** : An integrated development environment (IDE) for STM32 microcontrollers, providing code editing, compilation, debugging, and peripheral configuration tools.
 - **Arduino IDE** : A user-friendly integrated development environment for programming Arduino boards, supporting code writing, uploading, and serial monitoring.
-- **C (STM32CubeIDE), C++ (Arduino IDE)** : programming languages
+- **C (STM32CubeIDE), C++ (Arduino IDE)** : programming languages.
