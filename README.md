@@ -9,4 +9,5 @@ between them. The role of the Gateway is to let data pass via the LoRa protocol 
 the Internet. Indeed, all the information received at the Gateway is sent to the server created LIMASY using
 the HTTPS protocol and then to the server application for visualization and control by scenarios.
 This server created, provides everything necessary in terms of security, connectivity, and public lighting system management.
+
 **Keywords** : IoT, LoRa, WiFi, HTTPS, STM32-Nucleo L476RG, STM32Cube IDE, C/C++.
