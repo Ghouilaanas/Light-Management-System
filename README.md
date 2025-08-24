@@ -33,10 +33,5 @@ The **LIMASY** project, as its name suggests, is a **public lighting management 
 - **C (STM32CubeIDE), C++ (Arduino IDE)** : programming languages.
 - **Proteus ISIS** : A software tool for designing and simulating electronic circuits and embedded systems.
 ---
-## Functionalities
-- hjj
-- ghh
-- kkkl
----
 ## 🎬 Preview
 
