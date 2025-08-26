@@ -15,7 +15,7 @@ This server created, provides everything necessary in terms of security, connect
 ---        
 
 ## 🎯 Aims
-The **LIMASY** project, as its name suggests, is a **public lighting management system** specifically designed to be installed inside public lighting cabinets or enclosures. It is intended to **serve municipal technicians and public lighting personnel by enabling real-time and remote control of the switching on and off of lighting lines**. This control is carried out through a web server application that provides the necessary graphical interfaces to define lighting commands based on scenarios, thereby optimizing energy consumption.
+The **LIMASY** project, as its name suggests, is a **public lighting management system** specifically designed to be installed inside public lighting cabinets or enclosures. It is intended to **serve municipal technicians and public lighting personnel by enabling real-time and remote control of the switching on and off of lighting lines**. This control is carried out through a web server application that provides the necessary graphical interfaces to define lighting commands based on scenarios, thereby **optimizing energy consumption**.
 
 ---        
 ## ⚙️ Tools and Technologies
