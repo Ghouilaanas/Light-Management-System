@@ -34,4 +34,5 @@ The **LIMASY** project, as its name suggests, is a **public lighting management 
 - **Proteus ISIS** : A software tool for designing and simulating electronic circuits and embedded systems.
 ---
 ## 🎬 Preview
+[▶️ Download demo video](Demo_PFE.mp4)
 
