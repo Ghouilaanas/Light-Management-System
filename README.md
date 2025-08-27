@@ -38,5 +38,7 @@ This demo provides a practical overview of the project in action, showcasing an 
 
 [▶️ Download Demo_PFE video](Demo_PFE.mp4)
 
+## 🎤 Demo Version 0 – Guided Overview
+This earlier demo provides a narrated walkthrough of the project, explaining its key components and functionality. Created for academic review, it highlights the system’s operation, design choices, and core features in a clear and structured way.
 
 
