@@ -1,6 +1,8 @@
 /*
   SWATEK Confidential - Device Source Code
 
+  SWATEK retains full ownership of this source code. It is provided solely for demonstration and may not be used for any other purpose.
+
   This file is part of the device-side implementation intended to interact
   with the gateway in the IoT system.
 
