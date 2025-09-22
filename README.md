@@ -41,5 +41,7 @@ This demo provides a practical overview of the project in action, showcasing an 
 ## 🎤 Demo v0 – Explained Walkthrough
 This earlier demo provides a narrated walkthrough of the prototype in French, explaining its key components and functionality. Created for academic review, it demonstrates the system’s main functions and overall operation in a clear and structured way.
 
+ ![Demo_PFE_version_0](Demo_PFE_version_0.png)
+
 [▶️ Download Demo_PFE_v0 video](Demo_PFE_version_0.mp4)
 
